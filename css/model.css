@@ -1,0 +1,34 @@
+body {    
+
+    text-align: center;
+    background-color: black;
+}
+
+.top {
+    margin-top: 30px;    
+    font-style: italic;
+    color: white;
+
+}
+.novo {
+    font-style: italic;
+    color: white;
+}a{    
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    
+}input{    
+    font-style: italic;
+}
+.rodape{
+    background-color: rgb(255, 255, 255);
+    text-align:center ;   
+    margin-top: 419px; 
+  
+}img{  
+    margin-top: 130px;
+}h1{
+    color: white;
+    margin-top: 70px;
+}
